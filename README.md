@@ -39,3 +39,27 @@ PawLink takes the guesswork out of dog meetups by letting you pre-screen playmat
 Compatibility Filtering - Matches potential partners by explicit criteria: location, size, energy levels, and temperament.
 
 Safe Pre-Meeting Communication - Matched owners use messaging to chat, share behavioral nuances, and finalize boundaries safely before committing to an in-person, 1-on-1 meeting.
+## Team Workflow
+
+### Definition of Done
+
+Every pull request is reviewed and approved by a team member who did not write the changes. Each pull request describes what changed and why. A pull request that implements a backlog item links to that Issue, and all acceptance criteria on the Issue are met.
+
+This Definition of Done grows as the pipeline develops: automated tests in Module 6, CI enforcement in Module 7, and static analysis later in the course.
+
+### Communication
+
+Slack (class workspace, Team 2 channel) for async updates and blockers. Google Meet for team meetings. GitHub is the source of truth for work state. Work is tracked through Issue and pull request interaction in comments, reviews and commits.
+
+### Branching Strategy
+
+All work happens on a `feature/`, `bug/` or `docs/` branch. `main` is protected
+and accepts changes only through a pull request approved by another teammate.
+Branch names start with the prefix and a short description, e.g.
+`bug/fix-login-logic-typo`.
+
+| Prefix | Use | Example |
+| :--- | :--- | :--- |
+| `feature/` | New capability | `feature/user-login` |
+| `bug/` | Defect fix | `bug/remove-extra-description` |
+| `docs/` | Documentation only | `docs/add-roles-file` |
