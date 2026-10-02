@@ -21,6 +21,38 @@ Pet matching app where pet owners build profiles to coordinate park meetups.
 ## Mission Statement
 Our mission is to link pups and people in the real world by simplifying socialization. Matching dogs based on location, size, energy, and temperament, we make community park meetups safer, more predictable, and way more fun. Better matches, better playdates, more tail wags. Welcome to Pawlink.
 
+## Defined roles
+PawLink has 2 user roles
+Unregistered Users
+Registered Users
+
+### Unregistered User
+A visitor who has yet to create an account or logged in. They can learn what PawLink is, but unable to create matches or meetups until they sign up
+
+What they can do:
+They can view the front pages to see what Pawlink is about and the idea behind it. 
+Create accounts which would be sigining up for Pawlink
+Log in, if they have an account.
+
+What they can't do:
+They can't create or edit a profile
+They can't browse or  match with other pet owners
+They can't create, join, or view park metups
+
+### Registered User
+A pet owner who has created an account and is logged in. They have full access to PawLinks core features.
+
+What they can do:
+They can log in and out
+Create and edit their profile and dog's profile (location, size, energy, temperament).
+Browse and match with other pet owners based on compatibility 
+Coordinate park meetups with their matches.
+Rate dogs and comment on your rating (possibly???)
+
+What they can't do:
+Remove uerses
+Edit code via frontend nore backend
+
 ## Team Workflow
 
 ### Definition of Done
