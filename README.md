@@ -38,6 +38,4 @@ PawLink takes the guesswork out of dog meetups by letting you pre-screen playmat
 
 Compatibility Filtering - Matches potential partners by explicit criteria: location, size, energy levels, and temperament.
 
-Controlled Geographic Coordination - Using a map, users can pin specific locations or join structured community events, giving owners control over the time, place, and attendees of a meetup. This makes meetups more predictable.
-
 Safe Pre-Meeting Communication - Matched owners use messaging to chat, share behavioral nuances, and finalize boundaries safely before committing to an in-person, 1-on-1 meeting.
